@@ -6,10 +6,19 @@
     - title: DM
       logo: images/logos/dm.png
       url: http://ny5ms4:8504
-      description: DM paper trading。
-    - title: Behance
-      url: https://behance.net/
-      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+      description: DM paper trading
+    - title: EM OTR
+      logo: images/logos/em_otr.png
+      url: http://ny5ms4:8504
+      description: EM OTR paper trading
+    - title: EM SPOTFLY
+      logo: images/logos/spotfly.png
+      url: http://ny5ms4:8504
+      description: EM SPOTFLY paper trading
+    - title: EM CRV
+      logo: images/logos/em_crv.png
+      url: http://ny5ms4:8504
+      description: EM CRV paper trading
     
 
 # - taxonomy: 
